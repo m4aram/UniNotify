@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992346454710",
+    "project_id": "uninotify-d82a7",
+    "storage_bucket": "uninotify-d82a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992346454710:android:67446bee09eb810ab54417",
+        "android_client_info": {
+          "package_name": "com.example.uninotify_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmI3w7dIpjaQukGF5TQyLIpDnEnwvN-xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
